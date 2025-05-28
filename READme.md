@@ -130,6 +130,10 @@ Created a **BPMN diagram** to model the current and future customer acquisition 
 * Manual email follow-ups
 * No shared visibility into onboarding or customer lifecycle
 
+📎 *Current-state or 'As-is' state diagram for the internal CRM system for BrightWave Technologies available as a downloadable image below*
+![As-is cross-functional diagram](As-Is-Cross-functional-flow-diagram-for-BrightWave-Technologies.png)
+
+
 ### Future Process (As Modeled in BPMN)
 
 * Leads enter CRM automatically
@@ -138,8 +142,8 @@ Created a **BPMN diagram** to model the current and future customer acquisition 
 * Customer success team manages onboarding milestones
 * All teams access shared customer profiles
 
-📎 *BPMN diagram available as a downloadable image below*
-![BPMN Diagram](.png)
+📎 *Future-state or 'To-be' state diagram for the internal CRM system for BrightWave Technologies available as a downloadable image below*
+![To-be cross-functional flow diagram](To-Be-Cross-functional-flow-diagram-for-BrightWave-Technologies.png)
 
 ---
 
